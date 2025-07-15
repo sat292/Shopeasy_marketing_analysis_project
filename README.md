@@ -31,7 +31,7 @@ This project utilizes multiple datasets:
 - **Fact_Customer_Reviews**: Stores customer ratings (1-5) for various products.  
 - **Date Table**: A custom table created in Power BI to facilitate reporting and time-based analysis.
 
-📌 **ER Diagram**: *[Insert image or link to ER diagram if available]*
+📌 **ER Diagram**: ![Data Modeling](images/data_modelling.png)
 
 ---
 
