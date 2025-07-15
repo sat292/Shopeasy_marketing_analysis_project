@@ -58,16 +58,96 @@ This project utilizes multiple datasets:
 
 ---
 
+## 🔎 Insights Deep Dive
+
+### 📌 Conversion Rate
+
+#### Homepage CTR vs Product Page CTR
+- **Homepage CTR:** 67.8%  
+- **Product Page CTR:** 35.2%  
+➡️ Users lose interest on product pages. Improve images, product details, and reviews.
+
+#### Checkout Drop-off Rate
+- **Drop-off Rate:** 74.4%  
+➡️ Indicates friction in final step — possibly due to long process, hidden costs, or limited payment methods.
+
+#### Top vs Low Performing Products
+
+| Product           | Conversion Rate |
+|------------------|-----------------|
+| Hockey Stick      | 7.54%           |
+| Ski Boots         | 7.00%           |
+| Surfboard         | 6.56%           |
+| Dumbbells         | 3.77%           |
+| Swim Goggles      | 2.79%           |
+
+---
+
+### 📌 Customer Engagement
+
+#### Consistent Decline
+- Views fell from **5M (2023)** to **1M (2025)** (~80% drop)
+- Clicks and likes follow similar trends
+
+#### Content Type Trends (2023 vs 2025)
+- **2023–2024:** Social media = 34% of views  
+- **2025:** Blogs = 36%, Video = 33%, Social media = 31%  
+➡️ Blogs and videos now drive more engagement
+
+#### Low Interaction Rate
+- Clicks and likes are low compared to views  
+➡️ Suggests weak calls to action or less engaging content
+
+🖼️ **Customer Engagement Dashboard**  
+`[Insert image or link]`
+
+---
+
+### 📌 Customer Ratings
+
+#### Ratings Distribution
+- **4-star:** 431 ratings  
+- **5-star:** 409 ratings  
+- **1-star:** 80 ratings  
+- **2-star:** 153 ratings  
+
+#### Top-Rated Products
+- Climbing Rope (3.91)  
+- Swim Goggles (3.84)  
+- Cycling Helmets (3.80)  
+
+#### Low-Rated Products
+- Golf Clubs (3.48)  
+- Running Shoes (3.57 → 3.48 over 3 years)  
+- Volleyball (3.58)
+
+🖼️ **Customer Ratings Dashboard**  
+`[Insert image or link]`
+
+---
+
+## 🧠 Recommendations
+
+### ✅ Boost Conversion Rate
+- Enhance **product pages** with better images, reviews, and descriptions
+- Simplify **checkout process**, offer more **payment options**, show **transparent pricing**
+- Reevaluate and re-promote **low-performing products**
+
+### ✅ Increase Customer Engagement
+- Focus on **blogs** (36%) and **videos** (33%)
+- Improve **call-to-actions** and use **interactive content**
+- Monitor **shifting preferences** using analytics
+
+### ✅ Improve Customer Ratings
+- Investigate declining ratings (e.g., running shoes)
+- Improve **product quality** and **customer support**
+- Highlight **top-rated products** using badges, testimonials, and featured spots
+
+
 ## 📎 Resources
 
 - 📥 **Power BI Dashboard**: [Download Here](#) *(Insert actual link)*  
 - 📄 **SQL Queries (Data Cleaning & Analysis)**: [View Here](#) *(Insert actual link)*
-
----
-
-## ✅ Recommendations
-
-*(Add this section if included in your project; otherwise omit or say "See full dashboard/report for insights.")*
 
 ---
 
